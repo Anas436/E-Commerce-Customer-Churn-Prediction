@@ -15,4 +15,11 @@ In the domain of e-commerce, acquiring a new customer is generally more expensiv
 * Reduce churn rates.
 
 * Improve the skills of the team by sharing knowledge and overcoming challenges together.
+
+
+
+### Resources
+
+* __Omdena__ Local Chapter Challenge link [here](https://omdena.com/projects/e-commerce-customer-churn-prediction/)
+* __Kaggle__ Dataset link [here](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
  
